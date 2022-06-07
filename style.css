@@ -1,3 +1,30 @@
-body {
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 10px;
+  color:black;
+}
 
+/* Set navigation bar background */
+.navbar {
+  overflow: hidden;
+  background-color: black;
+}
+
+/* Style the navigation bar */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+}
+
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
 }
